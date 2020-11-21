@@ -2,7 +2,7 @@
 
 This repository contains implementation of different Convolutional Neural Networks (CNN) classifier.
 
-[Shallow_Deep_Leaning](https://github.com/AbhishekD15/CIFAR-10-Classifier/blob/main/Shallow_Deep_Learning.ipynb)contains the notebook where we have built a shallow neuarl network and train the model to test it's performance. We added more layers to 
+[Shallow_Deep_Leaning](https://github.com/AbhishekD15/CIFAR-10-Classifier/blob/main/Shallow_Deep_Learning.ipynb) contains the notebook where we have built a shallow neuarl network and train the model to test it's performance. We added more layers to 
 form a deeper network and observed an imporvemnet in performance. 
 
 [Transfer_Learning](https://github.com/AbhishekD15/CIFAR-10-Classifier/blob/main/Transfer_Learning.ipynb) Transfer learning concept on cifar10 dataset using pre trained ResNet50 Here It uses pre trained ResNet50 for classifying cifar10 data set since 
